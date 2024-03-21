@@ -1,16 +1,18 @@
-### Hi there 👋
+<h4 align="left">Olá, me chamo Jonas</h4>
 
-<!--
-**jonasssneto/jonasssneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h5 align="left">Sou um desenvolvedor dedicado, atualmente cursando Análise e Desenvolvimento de Sistemas e também  estagiário na At Group. Estou constantemente em busca de aprimorar minhas habilidades e conhecimentos no universo da tecnologia, sempre buscando evoluir e contribuir de forma significativa em projetos desafiadores.</h5>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+<hr>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Jonas%20Neto-065535?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-nogueira-neto/)](https://www.linkedin.com/in/jonas-nogueira-neto/)
+[![Gmail Badge](https://img.shields.io/badge/-nogueiraneto.jonas@gmail.com-065535?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+<hr>
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
+###
