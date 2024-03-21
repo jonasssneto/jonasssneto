@@ -12,6 +12,19 @@
 <hr>
 <!--START_SECTION:waka-->
 
+```txt
+Total Time: 116 hrs 44 mins
+
+TypeScript                 100 hrs 8 mins  █████████████████████▒░░░   85.03 %
+JavaScript                 3 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+CSV                        2 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Bash                       2 hrs 9 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Prisma                     2 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Other                      1 hr 1 min      ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Markdown                   51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+TSConfig                   39 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Git Config                 12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+```
 
 <!--END_SECTION:waka-->
 ###
