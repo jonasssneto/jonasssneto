@@ -11,8 +11,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-nogueiraneto.jonas@gmail.com-065535?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 <hr>
 <!--START_SECTION:waka-->
-
-
 <!--END_SECTION:waka-->
-
 ###
