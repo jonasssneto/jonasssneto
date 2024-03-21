@@ -22,8 +22,8 @@ jobs:
           REPOSITORY: jonasssneto/jonasssneto # optional
           ### content
           TIME_RANGE: all_time
-          LANG_COUNT: 5 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
+          BLOCKS: ·= # optional
           SHOW_MASKED_TIME: false # optional
-          IGNORED_LANGUAGES: YAML JSON TOML  # optional
+          IGNORED_LANGUAGES: YAML JSON TOML CSV  # optional
