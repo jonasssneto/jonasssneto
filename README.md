@@ -15,10 +15,9 @@
 ```txt
 Total Time: 116 hrs 44 mins
 
-TypeScript                 100 hrs 8 mins  █████████████████████▒░░░   85.03 %
-JavaScript                 3 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-CSV                        2 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-Bash                       2 hrs 9 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+TypeScript                 100 hrs 8 mins  =====================····   85.03 %
+JavaScript                 3 hrs 13 mins   =························   02.74 %
+Bash                       2 hrs 9 mins    ·························   01.83 %
 ```
 
 <!--END_SECTION:waka-->
