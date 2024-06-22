@@ -7,7 +7,6 @@
 [![Docker Badge](https://img.shields.io/badge/-DockerHub-9933F7?style=flat-square&logo=Docker&logoColor=white&link=https://hub.docker.com/u/jonasssneto)](https://hub.docker.com/u/jonasssneto)
 
 
-https://hub.docker.com/u/jonasssneto
 <!--START_SECTION:waka-->
 
 ```txt
