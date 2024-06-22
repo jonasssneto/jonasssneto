@@ -1,15 +1,9 @@
-<h4 align="left">Olá, me chamo Jonas</h4>
 
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9933F7&random=false&width=835&lines=%40Jonasssneto)](https://git.io/typing-svg)
 
-<h5 align="left">Sou um desenvolvedor dedicado, atualmente cursando Análise e Desenvolvimento de Sistemas e também  estagiário na <a href="https://atgroup.com.br/">At Group</a>. Estou constantemente em busca de aprimorar minhas habilidades e conhecimentos no universo da tecnologia, sempre buscando evoluir e contribuir de forma significativa em projetos desafiadores.</h5>
+[![Linkedin Badge](https://img.shields.io/badge/-Jonas%20Neto-9933F7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-nogueira-neto/)](https://www.linkedin.com/in/jonas-nogueira-neto/)
+[![Gmail Badge](https://img.shields.io/badge/-nogueiraneto.jonas@gmail.com-9933F7?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
-###
-<hr>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Jonas%20Neto-065535?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-nogueira-neto/)](https://www.linkedin.com/in/jonas-nogueira-neto/)
-[![Gmail Badge](https://img.shields.io/badge/-nogueiraneto.jonas@gmail.com-065535?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
-<hr>
 <!--START_SECTION:waka-->
 
 ```txt
