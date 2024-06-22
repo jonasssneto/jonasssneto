@@ -1,5 +1,6 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=9933F7&center=true&random=false&width=435&lines=%40Jonasssneto" alt="Typing SVG" /></a></p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=23&pause=1000&color=9933F7&center=true&random=false&width=435&lines=%40Jonasssneto" alt="Typing SVG" /></a>
+</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jonas%20Neto-9933F7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-nogueira-neto/)](https://www.linkedin.com/in/jonas-nogueira-neto/)
 [![Gmail Badge](https://img.shields.io/badge/-nogueiraneto.jonas@gmail.com-9933F7?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
