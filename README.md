@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 556 hrs 34 mins
+Total Time: 557 hrs 23 mins
 
-TypeScript                 418 hrs 11 mins ===================······   74.38 %
-JSON                       20 hrs 16 mins  =························   03.61 %
+TypeScript                 418 hrs 11 mins ===================······   74.27 %
+JSON                       20 hrs 21 mins  =························   03.62 %
 Prisma                     18 hrs 40 mins  =························   03.32 %
-Bash                       18 hrs 18 mins  =························   03.26 %
-Markdown                   16 hrs 51 mins  =························   03.00 %
+Bash                       18 hrs 18 mins  =························   03.25 %
+Markdown                   16 hrs 58 mins  =························   03.02 %
 ```
 
 <!--END_SECTION:waka-->
