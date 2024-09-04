@@ -28,3 +28,7 @@ jobs:
           SHOW_MASKED_TIME: false # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          ### Devices
+          SHOW_OS: true
+          ### Show commits
+          SHOW_COMMIT: true
