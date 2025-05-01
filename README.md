@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,516 hrs 8 mins
+Total Time: 1,522 hrs 41 mins
 
-TypeScript                 1,058 hrs 46 mins=================········   69.02 %
-Go                         139 hrs 55 mins ==·······················   09.12 %
-Bash                       58 hrs 58 mins  =························   03.84 %
-YAML                       44 hrs 50 mins  =························   02.92 %
-Prisma                     41 hrs 28 mins  =························   02.70 %
+TypeScript                 1,064 hrs 19 mins=================········   69.09 %
+Go                         140 hrs 7 mins  ==·······················   09.10 %
+Bash                       58 hrs 58 mins  =························   03.83 %
+YAML                       45 hrs 5 mins   =························   02.93 %
+Prisma                     41 hrs 35 mins  =························   02.70 %
 ```
 
 <!--END_SECTION:waka-->
